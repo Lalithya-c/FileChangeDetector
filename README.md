@@ -17,7 +17,7 @@ This Python tool monitors a specified directory for changes in files. It calcula
 
 2. Navigate to the project directory:
    ```bash
-   cd repo-name
+   cd filechangedetector
    ```
 
 3. (Optional) Set up a virtual environment:
